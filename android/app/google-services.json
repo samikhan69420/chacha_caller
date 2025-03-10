@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623419457400",
+    "project_id": "chacha-caller",
+    "storage_bucket": "chacha-caller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623419457400:android:aa7276c2b6c7257ab0928d",
+        "android_client_info": {
+          "package_name": "com.chacha.caller.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGTui0URlzkNq3hnbQg8Tuos3BRfxojD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
